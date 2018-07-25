@@ -1,5 +1,5 @@
-pypi-test
-==============
+fragmuffin_pypitest
+=======================
 
 Test rendering of `reStructuredText <http://docutils.sourceforge.net/rst.html>`_
 for publishing to PyPI.
