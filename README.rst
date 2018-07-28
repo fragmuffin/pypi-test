@@ -13,3 +13,13 @@ Images
 **Basic**
 
 .. image:: https://www.python.org/static/community_logos/python-logo-master-v3-TM.png
+
+**Sized**
+
+.. image:: https://www.python.org/static/community_logos/python-logo-master-v3-TM.png
+    :width: 100px
+
+**Centered**
+
+.. image:: https://www.python.org/static/community_logos/python-logo-master-v3-TM.png
+    :align: center

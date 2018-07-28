@@ -1,7 +1,7 @@
 import codecs
 from setuptools import setup
 
-VERSION = '0.1.0.dev0'
+VERSION = '0.1.0.dev1'
 
 setup(
     name='fragmuffin_pypitest',
