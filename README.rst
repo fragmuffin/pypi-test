@@ -8,8 +8,9 @@ Module is **NOT** published to the `official PyPI <https://pypi.org/>`_,
 just to `PyPI's test server <https://test.pypi.org/>`_.
 
 Resulting renders to compare:
-* `PyPI package <https://test.pypi.org/project/fragmuffin-pypitest>`_
-* `GitHub README <https://github.com/fragmuffin/pypi-test>`_
+
+- `PyPI package <https://test.pypi.org/project/fragmuffin-pypitest>`_
+- `GitHub README <https://github.com/fragmuffin/pypi-test>`_
 
 Images
 ----------
