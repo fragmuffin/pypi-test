@@ -23,8 +23,16 @@ Images
 
 **Sized** (fail)
 
+``:scale:``
+
 .. image:: https://www.python.org/static/community_logos/python-logo-master-v3-TM.png
-   :scale: 20 %
+   :scale: 20%
+
+``:width:``
+
+.. image:: https://www.python.org/static/community_logos/python-logo-master-v3-TM.png
+   :width: 100px
+
 
 **Centered** (fail)
 
