@@ -15,16 +15,18 @@ Resulting renders to compare:
 Images
 ----------
 
-**Basic**
+**Basic Linked Image**
 
 .. image:: https://www.python.org/static/community_logos/python-logo-master-v3-TM.png
+   :alt: Python is awesome
+   :target: https://www.python.org
 
-**Sized**
+**Sized** (fail)
 
 .. image:: https://www.python.org/static/community_logos/python-logo-master-v3-TM.png
    :scale: 20 %
 
-**Centered**
+**Centered** (fail)
 
 .. image:: https://www.python.org/static/community_logos/python-logo-master-v3-TM.png  
    :align: center
@@ -36,4 +38,24 @@ This fictionaly library is |POWERED_BY_PYTHON|, so there.
 .. |POWERED_BY_PYTHON| image:: https://www.python.org/static/community_logos/python-powered-w-70x28.png
     :alt: Powered by Python
     :target: https://www.python.org
+
+**SVG**
+
+.. image:: http://dcowden.github.io/cadquery/_static/cadquery_logo_dark.svg
+
+
+Code Block
+--------------------
+
+**Python**
+
+.. code-block:: python
+
+    import time
+    print("hi")
+
+    # some comment
+    time.sleep(1)
+    print("there")
+
 
