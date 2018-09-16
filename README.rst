@@ -44,7 +44,7 @@ Images
 
 **Inline**
 
-This fictionaly library is |POWERED_BY_PYTHON|, so there.
+This fictional library is |POWERED_BY_PYTHON|, so there.
 
 .. |POWERED_BY_PYTHON| image:: https://www.python.org/static/community_logos/python-powered-w-70x28.png
     :alt: Powered by Python
