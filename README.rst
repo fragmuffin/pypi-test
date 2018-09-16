@@ -33,6 +33,9 @@ Images
 .. image:: https://www.python.org/static/community_logos/python-logo-master-v3-TM.png
    :width: 100px
 
+.. image:: https://www.python.org/static/community_logos/python-logo-master-v3-TM.png
+   :width: 50%
+
 
 **Centered** (fail)
 
